@@ -1,0 +1,17 @@
+# Site settings
+name: 陶亚龙
+location: 哈尔滨
+company: 东北石油大学
+position: Java开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 13104652878
+email: Im@taoyalong.com
+baseurl: "/"
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
